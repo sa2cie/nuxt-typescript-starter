@@ -1,4 +1,5 @@
 # nuxt-with-ts-starter
+[![Support Node of v10.15.3](https://img.shields.io/badge/node-10.15.3-brightgreen.svg)](https://nodejs.org/)
 
 > Nuxt with Typescript development starter.
 
